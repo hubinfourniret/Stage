@@ -1,0 +1,78 @@
+* {
+    text-decoration: none; /* Supprimer le soulignement des liens */
+    color: black; /* Couleur du texte */
+}
+
+body {
+    margin : 0px;
+    font-family: 'Inter', Helvetica, sans-serif;
+}
+
+/* en-tête */
+header div img {
+    width : 40px;
+}
+
+.bande {
+    display: flex;
+    width: 100%;
+    font-size: 16px;
+    padding-top: 10px;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    background-image: url('photos/fond.jpg'); /* Chemin vers votre image */
+    background-size: cover; /* Redimensionne l'image pour couvrir tout l'élément */
+    background-position: center; /* Centre l'image horizontalement et verticalement */
+    
+    height: 165px; /* Hauteur de l'élément */
+    align-items: center; /* Centrer verticalement */
+    justify-content: space-between;
+    padding: 0 5%;
+    font-size: 20px;
+}
+
+nav a {
+    flex-basis: calc(10% - 1.25%);
+    margin-left: 0.625%; 
+    margin-right: 0.625%; 
+    text-align: center;
+}
+
+    /*bouton */
+.bouton {
+    background-color: #000;
+    color: #fff;
+    padding: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.gauche {
+    margin-left: 4%;
+}
+
+.droite1 {
+    margin-right: 3%;
+    margin-left: auto;
+}
+
+.droite {
+    margin-right: 3%;
+}
+
+.logoHead1{
+    margin-right: 4%;
+    margin-left: 1%;
+}
+
+.logoHead{
+    margin-right: 1%;
+    margin-left: 1%;
+
+}
+

@@ -30,10 +30,10 @@
         </header>
         <nav>
             <ul class="navbar">
-                <li><a href="https://www.ffsg.org/">Présentation</a></li>
+                <li><a href="index.php">Présentation</a></li>
                 <li><a href="https://www.ffsg.org/">News</a></li>
                 <li><a href="https://www.ffsg.org/">La ligue</a></li>
-                <li><a href="https://www.ffsg.org/">Les clubs</a></li>
+                <li><a href="lesClubs.php">Les clubs</a></li>
                 <li><a href="https://www.ffsg.org/">Les disciplines</a></li>
                 <li><a href="https://www.ffsg.org/">Formation</a></li>
                 <li><a href="https://www.ffsg.org/">Evenement</a></li>

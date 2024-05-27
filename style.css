@@ -153,6 +153,16 @@ main div {
     box-shadow: inset 0 0 0 1px #000000;
 }
 
+/* ----- MAIN Ligue ----- */
+.logo-partenaires {
+    width: 200px;
+}
+
+.organigramme-laLigue {
+    display: flex;
+    justify-content: center;
+}
+
 /* ----- FOOTER ----- */
 footer {
     background-color: #A7D8EE;

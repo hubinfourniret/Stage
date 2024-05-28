@@ -1,7 +1,7 @@
 <?php
     include('header.php');
 ?>
-        <main>
+        <main class="clubs">
             <div>
                 <h1>ACSEL Caen patinage</h1>
                 <p>8, rue Jean de la Varende 14000 Caen</p>

@@ -31,27 +31,27 @@
         <nav>
             <ul class="navbar">
                 <li><a href="index.php">Actualité</a></li>
-                <li><a href="https://www.ffsg.org/">News</a></li>
+                <li><a href="news.php">News</a></li>
                 <li><a href="laLigue.php">La ligue</a></li>
                 <li><a href="lesClubs.php">Les clubs</a></li>
-                <li><a href="https://www.ffsg.org/">Les disciplines</a></li>
-                <li><a href="https://www.ffsg.org/">Formation</a></li>
-                <li><a class="bouton" href="https://www.ffsg.org/">Trouver un club</a></li>
+                <li><a href="lesDisciplines.php">Les disciplines</a></li>
+                <li><a href="formation.php">Formation</a></li>
+                <li><a class="bouton" href="">Trouver un club</a></li>
             </ul>
             <div class="burger-nav">
                 <i class="fa-solid fa-bars"></i>
             </div>
             <div class="burger-menu">
                 <ul class="links">
-                    <li><a href="https://www.ffsg.org/">Actualité</a></li>
-                    <li><a href="https://www.ffsg.org/">News</a></li>
-                    <li><a href="https://www.ffsg.org/">La ligue</a></li>
-                    <li><a href="https://www.ffsg.org/">Les clubs</a></li>
-                    <li><a href="https://www.ffsg.org/">Les disciplines</a></li>
-                    <li><a href="https://www.ffsg.org/">Formation</a></li>
+                    <li><a href="index.php">Actualité</a></li>
+                    <li><a href="news.php">News</a></li>
+                    <li><a href="laLigue.php">La ligue</a></li>
+                    <li><a href="lesClubs.php">Les clubs</a></li>
+                    <li><a href="lesDisciplines.php">Les disciplines</a></li>
+                    <li><a href="formation.php">Formation</a></li>
                     <li><a class="droite1" href="partenaires.php">Partenaires</a></li>
                     <li><a class="droite" href="contact.php">Contact</a></li>
-                    <li><a class="bouton" href="https://www.ffsg.org/">Trouver un club</a></li>
+                    <li><a class="bouton" href="">Trouver un club</a></li>
                 </lu>
         </nav>
         <script>

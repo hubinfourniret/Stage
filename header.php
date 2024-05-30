@@ -22,20 +22,20 @@
                     <li><a class="droite" href="contact.php">Contact</a></li>
                 </ul>
                 <ul class="logoHead">
-                    <li><a class="logoHead" href="contact.php"><img src="logo/yt.svg" alt="youtube"></a></li>
-                    <li><a class="logoHead" href="contact.php"><img src="logo/fb.svg" alt="facebook"></a></li>
-                    <li><a class="logoHead1" href="contact.php"><img src="logo/it.svg" alt="instagram"></a></li>
+                    <li><a class="logoHead" href="contact.php"><img src="logos/reseau/yt.svg" alt="youtube"></a></li>
+                    <li><a class="logoHead" href="contact.php"><img src="logos/reseau/fb.svg" alt="facebook"></a></li>
+                    <li><a class="logoHead1" href="contact.php"><img src="logos/reseau/it.svg" alt="instagram"></a></li>
                 </ul>
             </div>
         </header>
         <nav>
             <ul class="navbar">
-                <li><a href="index.php">Actualité</a></li>
+                <li><a href="index.php">La Ligue</a></li>
                 <li><a href="news.php">News</a></li>
-                <li><a href="laLigue.php">La ligue</a></li>
-                <li><a href="lesClubs.php">Les clubs</a></li>
-                <li><a href="lesDisciplines.php">Les disciplines</a></li>
-                <li><a href="formation.php">Formation</a></li>
+                <li><a href="evenement.php">Evenements</a></li>
+                <li><a href="lesClubs.php">Clubs</a></li>
+                <li><a href="lesDisciplines.php">Disciplines</a></li>
+                <li><a href="formation.php">Formations</a></li>
                 <li><a class="bouton" href="">Trouver un club</a></li>
             </ul>
             <div class="burger-nav">

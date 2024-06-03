@@ -136,6 +136,13 @@ main{
     min-height: 874px;
  }
 
+.logo {
+    width: 240px;
+    height: 275px;
+    object-fit: contain;
+    display: flex;
+}
+
 /* ----- MAIN LES CLUBS ----- */
 .clubs {
     margin-top: 3rem;
@@ -144,7 +151,6 @@ main{
     align-items: center;
 }
 .grid{
-    
     display: flex;
     gap: 20rem;
     margin : 3rem 0;
@@ -223,13 +229,6 @@ main{
     gap: 150px; 
 }
 
-.logo {
-    width: 240px;
-    height: 275px;
-    object-fit: contain;
-    display: flex;
-}
-
 div.partenaires div {
     display: flex;
     justify-content: center; /* Centre les éléments horizontalement */
@@ -271,7 +270,49 @@ div.partenaires div {
 .disciplines p {
     font-size: 1.7rem;
 }
+/* ----- MAIN ARTISTIQUE ----- */
+.artistique{
+    margin-top: 3rem;
+    text-align: center; /* Centre le texte à l'intérieur des éléments */
+}
 
+.artistique h1{
+    font-size: 3rem;
+    margin: 3rem 0 2rem;
+}
+.artistique p{
+    margin: 1rem 20%;
+}
+.artistique .club{
+    margin: 2rem 10rem 5rem;
+    display: flex;
+    gap: 10%;
+    justify-content: center; /* Centre les éléments horizontalement */
+    flex-wrap: wrap;
+}
+
+.illustration {
+    margin: 3rem 0;
+    width: 60%;
+    border-radius: 10px;
+}
+
+.para {
+    text-align: start;
+}
+
+.bas {
+    display: flex;
+}
+
+.bas p{
+    align-items: center;     /* Centre les éléments verticalement */
+}
+
+.image {
+    width: 40%;
+    border-radius: 10px;
+}
 
 /* ----- MAIN FORMATIONS ----- */
 .formations h1{
@@ -332,5 +373,11 @@ footer ul {
 
     .burger-menu {
         display: block;
+    }
+}
+
+@media (max-width: 1130px){
+    .grid{
+        gap: 5rem;
     }
 }

@@ -1,0 +1,15 @@
+Artistique:
+  tilte1: "DANSE SUR GLACE"
+  para1: "La danse sur glace est une discipline d'expression, elle se pratique en solo et en couple."
+  para2: "Cette discipline allie nombre de qualités vitesse, souplesse, technique, maitrise du mouvement. Les éléments techniques sont : les portés, les pirouettes, les séries de pas et les twizzles."
+  para3: "Plusieurs programmes sont requis en compétition selon les niveaux et catégories d’âge : danse imposées, la danse de rythme et le programme libre. La catégorie Couple est Olympique quant à la catégorie Solo, elle a fait son entrée en International en 2022.2023."
+  img: "photos/disciplines/danse-sur-glace.jpg"
+  orga: "photos/disciplines/CRSDG.png"
+  para4: "PRESIDENTE CRSDG : MME MOREAU Edwige moreauedw42@gmail.com"
+  tilte2: "OÙ PRATIQUER LE SOLO OU LE COUPLE ?"
+  solo: 
+    - chemin : "logos/logo-club/cdgh-logo.jpg"
+    - chemin : "logos/logo-club/roc-logo.png"
+  para5: "Pour toute informations complémentaire :"
+  logo: "logos/disciplines/artistique.jpg"
+  lien: "https://www.csndg.org/CSNDG-WP/"

@@ -1,0 +1,10 @@
+Artistique:
+  tilte1: "LE BALLET"
+  para1: "Le ballet sur glace est un sport d'équipe. C'est un mélange de théâtre, d'artistique, de danse sur glace, de synchronisation voir de freestyle. Thème, chorégraphie, musique doivent donner l'impression d'harmonie et d'équilibre. "
+  img: "photos/disciplines/ballet.jpg"
+  tilte2: "OU PRATIQUER ?"
+  solo: 
+    - chemin : "logos/logo-club/cdgh-logo.jpg"
+  para5: "Pour toute informations complémentaire :"
+  logo: "logos/disciplines/ballet.jpg"
+  lien: "https://www.csnballet.org/"

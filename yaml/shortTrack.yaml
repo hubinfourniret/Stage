@@ -1,0 +1,14 @@
+Artistique:
+  tilte1: "LE SHORT TRACK"
+  para1: "Le short track se pratique sur une piste courte contrairement au patinage de vitesse sur piste longue. Deux à dix patineurs ou deux à six patineurs font la course en même temps sur une piste en forme d'anneau. Plusieurs distances 333 mètres, 777 mètres, 500 mètres, 1000 mètres et 1500 mètres."
+  para2: "Le patineur est équipé de patins qui lui permet de maintenir dans les virages courbés une inclinaison. Les lames sont souvent décentrées , vue au dessus, elle porte vers la gauche. Ce changement d'angle permet au patineur de s'incliner davantage de virer plus court. La combinaison est généralement en kevlar et résistante aux coupures. "
+  img: "photos/disciplines/short-track.jpg"
+  orga: "photos/disciplines/CRSSE.png"
+  para3: "PRESIDENTE CRSEE : MME LAVENU Stéphanie :lavenu1@gmail.com"
+  para4: "RESPONSABLE CRSEE (Vitesse) M.MIUS BERTRAND :bertrand.mius@gmail.com"
+  tilte2: "OU PRATIQUER ?"
+  solo: 
+    - chemin : "logos/logo-club/cvgh-logo.jpg"
+  para5: "Pour toute informations complémentaire :"
+  logo: "logos/disciplines/shortTrack.png"
+  lien: "https://sites.google.com/view/csnpatinagevitesse/accueil"

@@ -1,0 +1,14 @@
+Artistique:
+  tilte1: "LE CURLING"
+  para1: "Le curling est un jeu d'équipe qui se pratique sur une piste de 45 mètres de long avec deux équipes. Les pierres sont toutes sembles pèsent 40 livres anglaises (). C'est un sport qui allie finesse, équilibre, cardio, stratégie. Le curleur est équipé de chaussures spéciales qui lui permettent de faire avancer la pierre. Sport olympique, inclusif et intergénérationnel."
+  img: "photos/disciplines/curling.jpg"
+  orga: "photos/disciplines/CRSSE.png"
+  para3: "PRESIDENTE CRSSE : MME LAVENU Stéphanie :lavenu1@gmail.com"
+  para4: "RESPONSABLE CRSSE (curling): M.DEHAIS Laurent :dehais.laurent@wanadoo.fr"
+  tilte2: "OU PRATIQUER ?"
+  solo: 
+    - chemin : "logos/logo-club/iscl-logo.png"
+    - chemin : "logos/logo-club/roc-logo.png"
+  para5: "Pour toute informations complémentaire :"
+  logo: "logos/disciplines/curling.jpg"
+  lien: "https://sites.google.com/view/csncurling/actualit%C3%A9s"

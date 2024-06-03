@@ -1,0 +1,17 @@
+Artistique:
+  tilte1: "LES SPORTS EXTRÊMES"
+  para1: "Les sports extrêmes sont représentés par Le Freestyle et l'Ice cross. Le Freestyle apporte la liberté de style et liberté dans ses figures. Chaque freestyleur ou chaque groupe de freestyleur apporte sa propre approche chorégraphique, ses propres figures, son univers. Créativité artistique, acrobatie, sauts, tout est permis."
+  para2: "Sept disciplines : Le saut de barils, Le saut en hauteur avec tremplin, Le saut en hauteur sans tremplin, La session Freestyle Team, La session Freestyle Solo, Le Battle,Ice Cross"
+  para3: "L'Ice Cross est une course sur glace en patinoire (ou piste de glace) mobile ou fixe, naturelle ou artificielle. Composition des parcours : obstacles, chicanes, tremplins, lignes droites, virages relevés, chaque parcours est différent. L'Ice Cross se pratique sur du plat ou en descente. Les riders s'affrontent sur des RUN de 2 à 4 patineurs."
+  img: "photos/disciplines/sport-extrême.jpg"
+  orga: "photos/disciplines/CRSSE.png"
+  para4: "PRESIDENTE CRSSE : MME LAVENU Stéphanie :lavenu1@gmail.com"
+  para5: "RESPONSABLE CRSSE (Sports Extrêmes) :gildasfort@yahoo.fr"
+  tilte2: "OU PRATIQUER ?"
+  solo: 
+    - chemin : "logos/logo-club/iscl-logo.png"
+    - chemin : "logos/logo-club/cvgh-logo.jpg"
+    - chemin : "logos/logo-club/roc-logo.png"
+  para6: "Pour toute informations complémentaire :"
+  logo: "logos/disciplines/sportExtreme.jpg"
+  lien: "https://sites.google.com/view/csn-sports-extremes/accueil?authuser=0"

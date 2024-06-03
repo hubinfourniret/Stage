@@ -1,0 +1,17 @@
+Artistique:
+  tilte1: "PATINAGE ARTISTIQUE SYNCHRONISE"
+  para1: "Le patinage synchronisé est une discipline d'expression en équipe qui se compose de 12 à 16 patineurs."
+  para2: "L'évolution sur la glace doit se faire en parfaite cohésion et harmonie pour patiner à l'unisson tout en exécutant des figures techniques."
+  para3: "Des éléments de base : ligne, bloc, roue, cercle, intersection, des éléments créatifs s'intègrent dans ces éléments pirouettes synchronisées, éléments de couples, mouvements isolés, transitions, portés, éléments sans se tenir et éléments se déplaçant."
+  img: "photos/disciplines/patinage-artistique-synchro.jpg"
+  orga: "photos/disciplines/CRSPAS.png"
+  para4: "PRESIDENT CRSPAS : M.MOREAU Laurent : moreau276@gmail.com"
+  tilte2: "OU PRATIQUER ?"
+  solo: 
+    - chemin : "logos/logo-club/acsel-logo.jpg"
+    - chemin : "logos/logo-club/roc-logo.png"
+    - chemin : "logos/logo-club/hacPatinage-logo.jpg"
+    - chemin : "logos/logo-club/iscl-logo.png"
+  para5: "Pour toute informations complémentaire :"
+  logo: "logos/disciplines/synchronise.webp"
+  lien: "https://www.csnps.org/"

@@ -91,11 +91,13 @@ nav {
 
 .burger-nav{
     color: #000;
-    right: 2rem;
+    right: 50px;
+    top: 14px;
     font-size: 3rem;
     position: absolute;
     display: none;
     cursor: pointer;
+
 }
 
 .fa-solid fa-bars {
@@ -130,13 +132,13 @@ nav {
 }
 
 /* ----- MAIN ALL ----- */
- main {
-    min-height: 1200px;
+main{
+    min-height: 874px;
  }
 
 /* ----- MAIN LES CLUBS ----- */
 .clubs {
-    margin-top: 2rem;
+    margin-top: 3rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -145,7 +147,7 @@ nav {
     
     display: flex;
     gap: 20rem;
-    margin : 2rem 0;
+    margin : 3rem 0;
 }
 
 .cadre {
@@ -154,15 +156,24 @@ nav {
     background-color: #e7e7e7;
     border-radius: 10px;
     padding: 1rem 2rem;
-    width: px;
+    width: 550px;
     height: 225px;
     justify-content: space-between;
 }
 
-.clubs h1 {
-    font-size: 1.7rem;
+.lien {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
+.titre {
+    font-size: 3rem;
+}
+
+.grid h1{
+    font-size: 1.5rem;
+}
 /* ----- MAIN Ligue ----- */
 .ligue .organigramme {
     display: flex;
@@ -208,8 +219,8 @@ nav {
 .partenaires{
     margin: 2rem 10rem 5rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); /* Grille responsive */
-    gap: 150px; /* Espacement entre les éléments de la grille */
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); 
+    gap: 150px; 
 }
 
 .logo {
@@ -224,6 +235,57 @@ div.partenaires div {
     justify-content: center; /* Centre les éléments horizontalement */
     align-items: center;     /* Centre les éléments verticalement */
     text-align: center; /* Centre le texte à l'intérieur des éléments */
+}
+
+/* ----- MAIN DISCIPLINES ----- */
+.disciplines {
+    margin: 3rem 10% 0;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.disciplines h1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.ligne {
+    display: flex;
+    gap: 20vh;
+}
+
+.case {
+    display: flex;
+    flex-direction: column;
+    align-items: center;     /* Centre les éléments verticalement */
+    width: 322px;
+}
+.vignette {
+    height: 280px;
+    width: 200px;
+    object-fit: contain;
+    display: flex;
+}
+
+.disciplines p {
+    font-size: 1.7rem;
+}
+
+
+/* ----- MAIN FORMATIONS ----- */
+.formations h1{
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+}
+
+.formations {
+    margin: 3rem 10% 0;
+}
+
+.formations p {
+    margin: 1rem 0;
 }
 
 /* ----- FOOTER ----- */

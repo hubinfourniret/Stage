@@ -1,6 +1,5 @@
 <?php
 include('header.php');
-include("fonctions.php");
 require "yaml1/vendor/autoload.php";
 
 use Symfony\Component\Yaml\Yaml;
